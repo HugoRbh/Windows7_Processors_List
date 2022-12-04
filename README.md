@@ -1,11 +1,12 @@
-### FR
+### FR 🇫🇷
 Liste des CPU compatibles pour une installation de Windows 7
-
 N'hésitez pas à faire CTRL + F pour rechercher plus facilement le processeur qu'il vous faut ! 
 
+### EN 🇬🇧
+List of compatible CPUs for an installation of Windows 7
+Don't hesitate to press CTRL + F to find the processor you need more easily!
 
-
-## Processeurs Intel
+## Processeurs Intel / Intel Processors
 
 | Fabricant | Marque   | Modèle         |
 |-----------|----------|----------------|
@@ -326,7 +327,7 @@ N'hésitez pas à faire CTRL + F pour rechercher plus facilement le processeur q
 | Intel®    | Xeon®    | W-2195         |
 | Intel®    | Xeon®    | W-3175X        |
 
-## Processeurs AMD
+## Processeurs AMD / AMD Processors
 
 | Fabricant | Marque      | Modèle                                                               |
 |-----------|-------------|----------------------------------------------------------------------|
