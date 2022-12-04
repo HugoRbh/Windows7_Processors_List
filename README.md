@@ -1,3 +1,13 @@
+Liste des CPU compatible pour une installation de Windows 7
+
+N'hésitez pas à faire CTRL + F pour rechercher plus facilement le processeur qu'il vous faut ! 
+
+# Sommaire
+1. [Processeurs Intel](#Processeurs Intel)
+2. [Processeurs AMD](#Processeurs AMD)
+
+## Processeurs Intel
+
 | Fabricant | Marque   | Modèle         |
 |-----------|----------|----------------|
 | Intel®    | Céleron® | 3205U          |
@@ -316,3 +326,105 @@
 | Intel®    | Xeon®    | W-2175         |
 | Intel®    | Xeon®    | W-2195         |
 | Intel®    | Xeon®    | W-3175X        |
+
+## Processeurs AMD
+
+| Fabricant | Marque      | Modèle                                                               |
+|-----------|-------------|----------------------------------------------------------------------|
+| AMD       | Série A     | A10 Micro-6700T avec Graphics R6™                                    |
+| AMD       | Série A     | A10-6700 avec Hd™ 8670D                                              |
+| AMD       | Série A     | A10-6700T avec Énormément™ HD 8650D                                  |
+| AMD       | Série A     | A10-6790B avec Hd™ 8670D                                             |
+| AMD       | Série A     | A10-6790K avec Énormément™ HD 8670D                                  |
+| AMD       | Série A     | A10-6800B avec Énormément™ HD 8670D                                  |
+| AMD       | Série A     | A10-6800K avec Énormément™ HD 8670D                                  |
+| AMD       | Série A     | A10-7300 avec Graphics R6™                                           |
+| AMD       | Série A     | A10-7400P avec Gpu™ R6 Graphics                                      |
+| AMD       | Série A     | A10-7700K avec La Série R7 DeDimension™                              |
+| AMD       | Série A     | A10-7800 avec La Série R7 DeDimension™                               |
+| AMD       | Série A     | A10-7850K with Radeon™ R7 Series                                     |
+| AMD       | Série A     | A10-7860K avec Graphics R7 Graphics et™ Near Silent Thermal Solution |
+| AMD       | Série A     | A10-7860K avec La Série R7 DeDimension™                              |
+| AMD       | Série A     | A10-7870K avec Graphics R7 Graphics et™ Near Silent Thermal Solution |
+| AMD       | Série A     | A10-7870K avec La Série R7 DeDimension™                              |
+| AMD       | Série A     | A10-7890K avec Graphics R7 Graphics™ et Wraith cool                  |
+| AMD       | Série A     | A10-8700P APU                                                        |
+| AMD       | Série A     | A10-8700P avec Gpu™ R6 Graphics                                      |
+| AMD       | Série A     | A4 Micro-6400T avec Graphics R3™                                     |
+| AMD       | Série A     | A4-5000 avec Hd™ 8330                                                |
+| AMD       | Série A     | A4-5100 avec Le Hd™ 8330                                             |
+| AMD       | Série A     | A4-6210 avec Amd™ R3 Graphics                                        |
+| AMD       | Série A     | A4-6300 avec Une Hd™ 8370D                                           |
+| AMD       | Série A     | A4-6320 avec Hd™ 8370D                                               |
+| AMD       | Série A     | A4-7210 avec Graphics R3™                                            |
+| AMD       | Série A     | A4-7300 avec Le Hd™ 8470D                                            |
+| AMD       | Série A     | A6-5200 avec Le Hd™ 8400                                             |
+| AMD       | Série A     | A6-5200M avec Énormément™ HD 8400                                    |
+| AMD       | Série A     | A6-5350M avec Hd™ 8450G                                              |
+| AMD       | Série A     | A6-6310 avec Graphics™ R4                                            |
+| AMD       | Série A     | A6-6400B avec Amd™ HD 8470D                                          |
+| AMD       | Série A     | A6-6400K avec Amd™ HD 8470D                                          |
+| AMD       | Série A     | A6-6420B avec Amd™ HD 8470D                                          |
+| AMD       | Série A     | A6-6420K avec Amd™ HD 8470D                                          |
+| AMD       | Série A     | A6-7000 avec Amd™ R4 Graphics                                        |
+| AMD       | Série A     | A6-7310 avec Amd™ R4 Graphics                                        |
+| AMD       | Série A     | A6-7400K avec La Série Amd™ R5                                       |
+| AMD       | Série A     | A6-7470K avec La Série Amd™ R5                                       |
+| AMD       | Série A     | A6-8500P avec Amd™ R5 Graphics                                       |
+| AMD       | Série A     | A8-6410 avec Amd™ R5 Graphics                                        |
+| AMD       | Série A     | A8-6500 avec Amd™ HD 8570D                                           |
+| AMD       | Série A     | A8-6500B avec Amd™ HD 8570D                                          |
+| AMD       | Série A     | A8-6500T avec Amd™ HD 8550D                                          |
+| AMD       | Série A     | A8-6600K avec Amd™ HD 8570D                                          |
+| AMD       | Série A     | A8-7100 avec Amd™ R5 Graphics                                        |
+| AMD       | Série A     | A8-7200P avec Amd™ R5 Graphics                                       |
+| AMD       | Série A     | A8-7410 avec Amd™ R5 Graphics                                        |
+| AMD       | Série A     | A8-7600 avec La Série Amd™ R7                                        |
+| AMD       | Série A     | A8-7650K avec Gpu™ R7 Graphics et Near Silent Thermal Solution       |
+| AMD       | Série A     | A8-7650K avec La Série Amd™ R7                                       |
+| AMD       | Série A     | A8-7670K avec Graphics R7 Graphics™ and Near Silent Thermal Solution |
+| AMD       | Série A     | A8-8600P APU                                                         |
+| AMD       | Série A     | A8-8600P avec Amd™ R6 Graphics                                       |
+| AMD       | Série E     | E1 Micro-6200T avec Amd™ R2 Graphics                                 |
+| AMD       | Série E     | E1-2100 avec Amd™ HD 8210                                            |
+| AMD       | Série E     | E1-2200 avec Amd™ HD 8210                                            |
+| AMD       | Série E     | E1-2500 avec Amd™ HD 8240                                            |
+| AMD       | Série E     | E1-6010 avec Amd™ R2 Graphics                                        |
+| AMD       | Série E     | E1-7010 avec Amd™ R2 Graphics                                        |
+| AMD       | Série E     | E2-3000 avec Amd™ HD 8280                                            |
+| AMD       | Série E     | E2-3800 avec Amd™ HD 8280                                            |
+| AMD       | Série E     | E2-6110 avec Amd™ R2 Graphics                                        |
+| AMD       | Série E     | E2-7110 avec Amd™ R2 Graphics                                        |
+| AMD       | Série PRO A | A10 PRO-7350B avec Amd™ R6 Graphics                                  |
+| AMD       | Série PRO A | A10 PRO-7800B avec Amd™ R7 Graphics                                  |
+| AMD       | Série PRO A | A10 PRO-7850B avec Gpu R7 Graphics™                                  |
+| AMD       | Série PRO A | A10-8700B APU                                                        |
+| AMD       | Série PRO A | A10-8730B APU                                                        |
+| AMD       | Série PRO A | A10-8750B APU                                                        |
+| AMD       | Série PRO A | A10-8770 APU                                                         |
+| AMD       | Série PRO A | A10-8770E APU                                                        |
+| AMD       | Série PRO A | A10-8850B APU                                                        |
+| AMD       | Série PRO A | A12-8800B APU                                                        |
+| AMD       | Série PRO A | A12-8830B APU                                                        |
+| AMD       | Série PRO A | A12-8870 APU                                                         |
+| AMD       | Série PRO A | A12-8870E APU                                                        |
+| AMD       | Série PRO A | A4 PRO-3340B avec Amd™ HD 8240 Graphics                              |
+| AMD       | Série PRO A | A4 PRO-3350B avec Amd™ R4 Graphics                                   |
+| AMD       | Série PRO A | A4 PRO-7300B avec Amd™ HD 8470D                                      |
+| AMD       | Série PRO A | A4 PRO-7350B avec Amd™ R5 Graphics                                   |
+| AMD       | Série PRO A | A4-4350B APU                                                         |
+| AMD       | Série PRO A | A4-5350B APU                                                         |
+| AMD       | Série PRO A | A4-8350B APU                                                         |
+| AMD       | Série PRO A | A6 PRO-7050B avec Amd™ R4 Graphics                                   |
+| AMD       | Série PRO A | A6 PRO-7400B avec Amd™ R5 Graphics                                   |
+| AMD       | Série PRO A | A6-7350B APU                                                         |
+| AMD       | Série PRO A | A6-8350B APU                                                         |
+| AMD       | Série PRO A | A6-8500B APU                                                         |
+| AMD       | Série PRO A | A6-8530B APU                                                         |
+| AMD       | Série PRO A | A6-8550B APU                                                         |
+| AMD       | Série PRO A | A6-8570 APU                                                          |
+| AMD       | Série PRO A | A6-8570E APU                                                         |
+| AMD       | Série PRO A | A8 PRO-7150B avec Amd™ R5 Graphics                                   |
+| AMD       | Série PRO A | A8 PRO-7600B avec Amd™ R7 Graphics                                   |
+| AMD       | Série PRO A | A8-8600B APU                                                         |
+| AMD       | Série PRO A | A8-8650B APU                                                         |
