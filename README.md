@@ -5,7 +5,7 @@ N'hésitez pas à faire CTRL + F pour rechercher plus facilement le processeur q
 # Sommaire
 1. [Processeurs Intel](#Processeurs Intel)
 2. [Processeurs AMD](#Processeurs AMD)
-titre: ##Titre <a id="nomAncre"></a>
+##Titre <a id="nomAncre"></a>
 
 ## Processeurs Intel <a id="Intel></a>
 
