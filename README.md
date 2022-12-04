@@ -1,10 +1,10 @@
 ### FR 🇫🇷
-Liste des CPU compatibles pour une installation de Windows 7
-N'hésitez pas à faire CTRL + F pour rechercher plus facilement le processeur qu'il vous faut ! 
+Liste des CPU compatibles pour une installation de Windows 7<br/>
+N'hésitez pas à faire CTRL + F pour rechercher plus facilement le processeur qu'il vous faut !<br/>
 
 ### EN 🇬🇧
-List of compatible CPUs for an installation of Windows 7
-Don't hesitate to press CTRL + F to find the processor you need more easily!
+List of compatible CPUs for an installation of Windows 7<br/>
+Don't hesitate to press CTRL + F to find the processor you need more easily!<br/>
 
 ## Processeurs Intel / Intel Processors
 
