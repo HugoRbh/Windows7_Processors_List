@@ -2,12 +2,9 @@ Liste des CPU compatible pour une installation de Windows 7
 
 N'hésitez pas à faire CTRL + F pour rechercher plus facilement le processeur qu'il vous faut ! 
 
-# Sommaire
-1. [Processeurs Intel](#Processeurs Intel)
-2. [Processeurs AMD](#Processeurs AMD)
-##Titre <a id="nomAncre"></a>
 
-## Processeurs Intel <a id="Intel></a>
+
+## Processeurs Intel
 
 | Fabricant | Marque   | Modèle         |
 |-----------|----------|----------------|
